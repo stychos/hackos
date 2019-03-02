@@ -16,7 +16,6 @@ This build is for single Xeon E5-2618L V3 CPU, which is 8 cores / 16 threads.
 If you have another CPU:
 1. remove ACPI/patched/SSDT.aml
 2. Enable `PluginType` checkbox in the Clover Configurator or make a new SSDT.aml using CPUFriend manual (don't forget to combine it with the frequency vectors)
-3. Reconfigure TSCAdjustReset.kext for your CPU threads count
 
 
 Graphics
