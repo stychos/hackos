@@ -73,41 +73,9 @@
 						<integer>0</integer>
 					</dict>
 				</dict>
-				<key>Mac-F60DEB81FF30ACF6</key>
+				<key>Mac-7BA5B2D9E42DDD94</key>
 				<dict>
 					<key>GFX0</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>17</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>GFX1</key>
-					<dict>
-						<key>AGDCEnabled</key>
-						<integer>1</integer>
-						<key>Heuristic</key>
-						<dict>
-							<key>ID</key>
-							<integer>-1</integer>
-						</dict>
-						<key>control-id</key>
-						<integer>16</integer>
-						<key>max-power-state</key>
-						<integer>15</integer>
-						<key>min-power-state</key>
-						<integer>0</integer>
-					</dict>
-					<key>GFX2</key>
 					<dict>
 						<key>AGDCEnabled</key>
 						<integer>1</integer>
