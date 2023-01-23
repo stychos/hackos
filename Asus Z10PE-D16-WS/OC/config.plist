@@ -828,7 +828,7 @@
 			<key>CustomPciSerialDevice</key>
 			<false/>
 			<key>DisableIoMapper</key>
-			<true/>
+			<false/>
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
