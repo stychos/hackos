@@ -966,7 +966,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>AGRpcmVjdF9oYW5kb2ZmAEVuYWJsZSBkaXJlY3QgaGFuZG9mZiBmb3IgcmVhbHRpbWUgdGhyZWFkcwA=</data>
 				<key>Identifier</key>
@@ -996,7 +996,7 @@
 				<key>Count</key>
 				<integer>1</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>Ym9vdCBzZXNzaW9uIFVVSUQAaHZfdm1tX3ByZXNlbnQA</data>
 				<key>Identifier</key>
@@ -1026,7 +1026,7 @@
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data></data>
 				<key>Identifier</key>
